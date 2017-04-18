@@ -6,14 +6,15 @@ LintJS - синтаксис JS
 LintCSS - синтаксис CSS
 uglifyJS - минификация JS
 FAVICON - генерация иконки
+WebpackCleanPlugin - очистка папки build
 
-
+#Установка
 yarn install
 
 # Development
 yarn start
-yarn build
 
 # Production
 yarn serv
+yarn build
 

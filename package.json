@@ -29,11 +29,13 @@
         "stylelint-webpack-plugin": "^0.7.0",
         "uglifyjs-webpack-plugin": "^0.4.3",
         "webpack": "^2.4.1",
+        "webpack-clean-plugin": "^0.2.3",
         "webpack-dev-server": "^2.4.2",
         "webpack-merge": "^4.1.0"
     },
     "dependencies": {
         "jquery": "^3.2.1",
-        "normalize.css": "^6.0.0"
+        "normalize.css": "^6.0.0",
+        "webpack-spritesmith": "^0.3.3"
     }
 }
